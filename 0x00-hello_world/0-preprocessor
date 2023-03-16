@@ -1,0 +1,2 @@
+#!ii/bin/bash
+gcc -E$CFILE -OC
